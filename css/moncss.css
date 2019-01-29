@@ -1,0 +1,32 @@
+#groupeName{
+
+    margin-left: auto;
+    display: inline-block;
+    float: left
+}
+
+
+#groupeEmail{
+    display: inline-block;
+    margin-right: auto;
+    float: right;
+
+}
+
+#messageBox{
+    margin-left: auto;
+
+    margin-right: auto;
+}
+
+#form-submit{
+
+    margin-right: auto;
+
+
+}
+form{
+    margin-left: auto;
+    margin-right: auto;
+    width: 45%;
+}
